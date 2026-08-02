@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_byron.mk
+    $(LOCAL_DIR)/twrp_byron.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_byron-user \
-    omni_byron-userdebug \
-    omni_byron-eng
+    twrp_byron-eng
