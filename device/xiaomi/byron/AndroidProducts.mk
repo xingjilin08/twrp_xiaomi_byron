@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_byron.mk
+    $(LOCAL_DIR)/omni_byron.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_byron-eng
+    omni_byron-eng
